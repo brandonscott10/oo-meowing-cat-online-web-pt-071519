@@ -3,11 +3,11 @@ class Cat
  
    attr_accessor :name
   
-  def initialize(name)
-    @name = name
+  def initialize(cat_name)
+    @name = cat_name
   end
  
-  def name
+  def cat
     @name
   end
 end

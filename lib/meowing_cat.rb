@@ -6,4 +6,5 @@ class Cat
  def name
    "meow!"
 end
+end
  

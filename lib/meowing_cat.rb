@@ -3,7 +3,7 @@ class Cat
  
    attr_accessor :name
    
-   def name.map do
+   def name.map 
      puts "meow!"
   end
 end
